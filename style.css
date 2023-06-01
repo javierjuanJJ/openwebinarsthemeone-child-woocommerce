@@ -1,0 +1,19 @@
+/*
+Theme Name: OpenWebinars Child
+Template: openwebinarsthemeone
+Theme URI: OpenWebinars
+Author: OpenWebinars
+Author URI: OpenWebinars
+Description: OpenWebinars
+Version: 0.1
+Licence:
+Text Domain: openwebinarsthemeone-child
+Tags: no-sidebar, one-column
+ */
+
+@import url('../openwebinarsthemeone/style.css');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200&family=Poppins:ital,wght@1,300&family=Rubik:ital,wght@0,300;1,600&display=swap');
+
+* {
+    font-family: 'Inconsolata', monospace;
+}
